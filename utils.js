@@ -17,3 +17,6 @@ function subtract(a, b) {
 function add(a, b){
     return a + b
 }
+
+
+//test github set up in CLI
